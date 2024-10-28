@@ -11,7 +11,7 @@ export default function CallToAction() {
           </p>
           <div className="mt-10 flex items-center justify-center">
             <a
-              href="https://api.whatsapp.com/message/XB6SE3NNAPS5I1?autoload=1"
+              href="https://wa.me/573236826910"
               target="_blank"
               className="flex items-center rounded-xl bg-green-600 px-3.5 py-2.5 text-lg font-semibold text-white shadow-sm hover:bg-green-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
             >
